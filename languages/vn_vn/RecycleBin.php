@@ -1,0 +1,96 @@
+<?php
+/*+**********************************************************************************
+ * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+ * ("License"); You may not use this file except in compliance with the License
+ * The Original Code is:  vtiger CRM Open Source
+ * The Initial Developer of the Original Code is vtiger.
+ * Portions created by vtiger are Copyright (C) vtiger.
+ * All Rights Reserved.
+ ************************************************************************************/
+
+$languageStrings  = Array(
+	'RecycleBin' => 'Thùng rác',
+	'LBL_SELECT_MODULE' => 'Chọn  Module',
+	'LBL_EMPTY_RECYCLEBIN' => 'Dọn sạch thùng rác',
+	'LBL_RESTORE' => 'Khôi phục',
+	'LBL_NO_PERMITTED_MODULES' => 'No permitted modules available',
+	'LBL_RECORDS_LIST' => 'Danh sách thùng rác',
+	'LBL_NO_RECORDS_FOUND' => 'Không tìm thấy bản ghi để Khôi phục trong module',
+    'Sales Stage'=>'Giai đoạn',
+    'LBL_MOI_QUAN_HE' => 'Mối quan hệ',
+    'LBL_XEP_HANG_KH' => 'Xếp hạng',
+    'Account status' => 'Trạng thái',
+    'LBL_NGUON_KHACH_HANG' => 'Nguồn',
+    'LBL_NGUON_TRUC_TIEP' => 'Chi tiết nguồn',
+    'LBL_CHIEN_DICH' => 'Chiến dịch',
+    'Office Phone' => 'Điện thoại',
+    'Company' => 'Công ty',
+    'File Name' => 'Tên tệp',
+    'Activity Type' => 'Loại công việc',
+    'Title'=>'Tiêu đề',
+    'Commission Rate'=>'Tỷ lệ hoa hồng',
+    'Qty In Stock'=>'Tồn trong kho',
+    'Product No'=>'Mã sản phẩm',
+    'Question'=>'Câu hỏi',
+    'Price Book Name'=>'Giá sản phẩm',
+    'Quote No'=>'Mã báo giá',
+    'Quote Stage' => 'Tình trạng',
+    'Tracking Number' => 'Số theo dõi',
+    'LBL_NGAY_BANHANG' => 'Ngày bán hàng',
+    'Campaign Name' => 'Tên chiến dịch',
+    'Campaign Status' => 'Trạng thái',
+    'LBL_MUC_DICH_CD' => 'Mục đích chiến dịch',
+    'Start Date'=>'Ngày bắt đầu',
+    'Due date'=>'Ngày kết thúc',
+    'Progress' => 'Tiến trình',
+    'Service Name'=>'Tên dịch vụ',
+    'Usage Unit'=>'Đơn vị tính',
+    'No of Units'=>'Số lượng đơn vị',
+    'Service Category'=>'Danh mục',
+    'Owner'=>'Người tạo',
+    'Asset Name' => 'Tên tài sản',
+    'End Date'=>'Ngày kết thúc',
+    'Worked Hours'=>'Giờ làm việc',
+    'Project Task Name' => 'Tên Công Việc',
+    'Project Name' => 'Tên dự án',
+    'Target End Date' => 'Ngày kết thúc mục tiêu',
+    'Actual End Date' => 'Ngày kết thúc thực tế',
+    'Target Budget' => 'Ngân sách thực tế',
+    'Notification Number' => 'Số thông báo',
+    'Signature Date' =>'Ngày',
+    'Signature time' =>'Giờ',
+    'LBL_VTE_CAMPAIGNS' => 'Tên chiến dịch',
+    'LBL_CAMPAIGNS'=>'Chiến dịch',
+    'LBL_VTEEMAILMARKETING_STATUS' => 'Trạng thái',
+    'LBL_SENT' => 'Đã gửi',
+    'LBL_QUEUED' => 'Xếp hàng',
+    'LBL_UNIQUE_OPEN' => 'Đã mở',
+    'LBL_UNOPENED' => 'Chưa mở',
+    'LBL_MUC_TIEU_CT' => 'Mục tiêu cụ thể',
+    'LBL_KYVONG' => 'Kỳ vọng',
+    'LBL_THUCTE' => 'Thực tế',
+    'LBL_CHENH_LECH' => 'Chênh lệch',
+    'LBL_DON_VI' => 'Đơn vị',
+    'LBL_KENH_TRUYEN_THONG' => 'Kênh truyền thông',
+    'LBL_LOAI_TRUYEN_THONG' => 'Loại truyền thông',
+    'LBL_DUKIEN' => 'Ngân sách dự kiến',
+    'LBL_NOTEPAD_NO' => 'Mã số ghi chú',
+    'LBL_SHOW_DASHBOARD' => 'Hiển thị trên dashboard',
+    'LBL_CONTENT' => 'Nội dung',
+    'Related to'=>'Quan hệ',
+    'message '=>'Tin nhắn',
+    'Message '=>'Tiêu đề',
+    'Type'=>'Loại',
+    'Signature Name'=>'Tên chữ ký',
+    'Room'=>'Phòng',
+    'Amount' => 'Số tiền',
+);
+
+$jsLanguageStrings = array(
+	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Bạn có chắc chắn muốn xóa vĩnh viễn tất cả các bản ghi đã xóa khỏi cơ sở dữ liệu của bạn?',
+	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Bạn có chắc chắn muốn khôi phục bản ghi?',
+	'JS_RESTORING_RECORDS' => 'Khôi phục bản ghi',
+);
+
+
+?>

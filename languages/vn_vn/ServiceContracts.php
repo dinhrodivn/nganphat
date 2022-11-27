@@ -1,0 +1,45 @@
+<?php
+$languageStrings = array(
+    'ServiceContracts' => 'Hợp đồng dịch vụ',
+    'Service Contracts' => 'Hợp đồng dịch vụ',
+    'SINGLE_ServiceContracts' => 'Hợp đồng dịch vụ',
+    'LBL_ADD_RECORD' => 'Thêm HĐDV',
+    'LBL_RECORDS_LIST' => 'Danh sách HĐDV',
+    'LBL_SERVICE_CONTRACT_INFORMATION' => 'Chi tiết Hợp đồng dịch vụ',
+    'Contract No' => 'Số Hợp đồng',
+    'Start Date' => 'Ngày có hiệu lực',
+    'End Date' => 'Ngày hết hiệu lực',
+    'Sales Order Number' => 'Mã đơn hàng',
+    'Tracking Unit' => 'Đơn vị theo dõi',
+    'Total Units' => 'Giá Trị',
+    'Used Units' => 'Đơn vị đã sử dụng',
+    'Progress' => 'Tiến trình',
+    'Planned Duration' => 'Thời gian dự kiến (bằng ngày)',
+    'Actual Duration' => 'Thời gian thực tế (bằng ngày)',
+    'Priority' => 'Ưu tiên',
+    'Due date' => 'Ngày đáo hạn',
+    'Normal' => 'Bình thường',
+    'Low' => 'Thấp',
+    'Type' => 'Loại hợp đồng',
+    'Support' => 'Hỗ trợ',
+    'Services' => 'Dịch vụ',
+    'Administrative' => 'Hành chính',
+    'Undefined' => 'Không xác định',
+    'In Planning' => 'Trong kế hoạch',
+    'On Hold' => 'Đang chờ',
+    'Complete' => 'Hoàn thành',
+    'Archived' => 'Đã lưu trữ',
+    'Related to' => 'Khách hàng',
+    'Status' => 'Trạng thái',
+    'LBL_QUOTES' => 'Báo giá',
+    'LBL_PHUONG_THUC_TT' => 'Phương thức thanh toán',
+    'LBL_TAM_UNG' => 'Tạm ứng',
+    'LBL_TOTAL_AMOUNT' => 'Tổng giá trị',
+    'LBL_LOAI_HOP_DONG' => 'Loại hợp đồng',
+    'LBL_HINH_THUC_TT' => 'Hình thức thanh toán',
+
+);
+
+$jsLanguageStrings = array(
+);
+

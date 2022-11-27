@@ -1,0 +1,12 @@
+2022-11-15T16:34:40+00:00 FATAL VT Links added
+2022-11-15T16:34:40+00:00 FATAL VT Lookup Events Registered
+2022-11-15T16:34:40+00:00 FATAL VT Settings Block and Field added
+2022-11-15T16:34:40+00:00 FATAL VT ReceiveIncomingcalls ActionName Added
+2022-11-15T16:34:40+00:00 FATAL VT MakeOutgoingCalls ActionName Added
+2022-11-15T16:34:40+00:00 FATAL VT Successfully added Module Related lists
+2022-11-21T14:27:50+00:00 FATAL VT Links Removed
+2022-11-21T14:27:50+00:00 FATAL VT Lookup Events Unregistered
+2022-11-21T14:27:50+00:00 FATAL VT Settings Field Removed
+2022-11-21T14:27:50+00:00 FATAL VT ReceiveIncomingcalls ActionName Removed
+2022-11-21T14:27:50+00:00 FATAL VT MakeOutgoingCalls ActionName Removed
+2022-11-21T14:27:50+00:00 FATAL VT Successfully removed Module Related lists
