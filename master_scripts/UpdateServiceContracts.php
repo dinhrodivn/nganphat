@@ -58,7 +58,7 @@ if ($serviceContractsModuleModel) {
             $field->name = $name;
             $field->column = $name;
             $field->label = $a_field['label'];
-            $field->table = 'vtiger_accountscf';
+            $field->table = 'vtiger_servicecontracts';
             $field->uitype = $a_field['uitype'];
             if ($a_field['uitype'] == 15 || $a_field['uitype'] == 16 || $a_field['uitype'] == '33') {//picklist
                 $field->setPicklistValues($a_field['picklist_values']);
