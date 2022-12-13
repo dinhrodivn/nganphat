@@ -9,18 +9,18 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Vendors' => 'Nhà cung cấp',
-	'SINGLE_Vendors' => 'Nhà cung cấp',
-	'LBL_ADD_RECORD' => 'Thêm nhà cung cấp',
-	'LBL_RECORDS_LIST' => 'Danhh sách nhà cung cấp',
+	'Vendors' => 'Nguồn nợ',
+	'SINGLE_Vendors' => 'Nguồn nợ',
+	'LBL_ADD_RECORD' => 'Thêm Nguồn nợ',
+	'LBL_RECORDS_LIST' => 'Danhh sách Nguồn nợ',
 
 	// Blocks
-	'LBL_VENDOR_INFORMATION' => 'Chi tiết nhà cung cấp',
+	'LBL_VENDOR_INFORMATION' => 'Chi tiết Nguồn nợ',
 	'LBL_VENDOR_ADDRESS_INFORMATION' => 'Địa chỉ chi tiết',
 
 	//Field Labels
-	'Vendor Name' => 'Tên nhà cung cấp',
-	'Vendor No' => 'Mã nhà cung cấp',
+	'Vendor Name' => 'Tên Nguồn nợ',
+	'Vendor No' => 'Mã Nguồn nợ',
 	'Website' => 'Website',
 	'GL Account' => 'Tài khoản GL',
 	'Phone' => 'Điện thoại',
