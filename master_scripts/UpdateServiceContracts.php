@@ -5,7 +5,7 @@ $serviceContractsModuleModel = Vtiger_Module::getInstance('ServiceContracts');
 if ($serviceContractsModuleModel) {
     $serviceContractsBlock = Vtiger_Block::getInstance('LBL_SERVICE_CONTRACT_INFORMATION', $serviceContractsModuleModel);
     // Remove fields
-    $adb->pquery("UPDATE `vtiger_field` SET `presence` = 1 WHERE `fieldname` IN ('tracking_unit','planned_duration','actual_duration','used_units','progress','start_date','due_date','contract_type','total_units','contract_priority','contract_status') AND tabid='33'");
+    $adb->pquery("UPDATE `vtiger_field` SET `presence` = 1 WHERE `fieldname` IN ('tracking_unit','planned_duration','actual_duration','used_units','progress','start_date','due_date','contract_type','total_units','contract_priority','contract_status','end_date') AND tabid='33'");
     $fields = array(
         "nguon_no" => array("label" => "NGUON_NO", "uitype" => 10, "table" => "vtiger_accountsaddress", "typeofdata" => 'V~M', "columntype" => 'int(19)', "related_module" => array('Vendors')),
         "so_hop_dong" => array("label" => "SO_HOP_DONG", "uitype" => 1, "typeofdata" => 'V~O', "columntype" => 'varchar(250)'),
