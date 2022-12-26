@@ -28,7 +28,7 @@ if ($moduleLSThuNo) {
 }
 
 $fields = array(
-    "LBL_HS_KHOANVAY_INFORMATION" => array(
+    "LBL_LS_THU_NO_INFORMATION" => array(
         "lsthuno_no" => array("label" => "LSTHUNO_NO", "uitype" => 4, "table" => "vtiger_lsthuno", "typeofdata" => 'V~M', "columntype" => 'varchar(50)', "filter"=>1, "is_identifier" => 1),
         "nguon_no" => array("label" => "NGUON_NO", "uitype" => 10, "table" => "vtiger_lsthuno", "typeofdata" => 'V~M', "columntype" => 'int(19)', "related_module" => array('Vendors')),
         "accountid" => array("label" => "TEN_KHACH_HANG", "uitype" => 10, "table" => "vtiger_lsthuno", "typeofdata" => 'V~M', "columntype" => 'int(19)', "related_module" => array('Accounts'), "filter"=>1),
