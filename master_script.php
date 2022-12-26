@@ -28,6 +28,9 @@ require_once ('master_scripts/AddLanguageVI.php');
 require_once ('master_scripts/CreateAccountsFields.php');
 require_once ('master_scripts/CreateAccountsAddress.php');
 require_once ('master_scripts/UpdateServiceContracts.php');
+require_once ('master_scripts/CreateHSKhoanVay.php');
+require_once ('master_scripts/CreateLichThanhToan.php');
+require_once ('master_scripts/CreateLSThuNo.php');
 
 //THIS SHOULD ALWAYS RUN LAST!!!
 require_once ('master_scripts/UpdateTabData.php');
